@@ -20,4 +20,5 @@
       status_code: 200
       body_format: json
       validate_certs: no
+  - name: git clone git@github.com-zilpe7860:zilpe786/gitauto101.git
 ...
